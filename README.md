@@ -7,10 +7,11 @@ I have taken a online class and learn some traditional and advanced methods to d
 ## Install
 Download the zip file, run the Sofix.ipynb
 
-## Possible problems and solutions
+## Possible Problems and Solutions
 If the log says you have logged in, log out first or it doesn't work.
 If the WeChat connection aborted error happens，rerun the project.
 
-## Related Project
+## Related Projects
 https://github.com/littlecodersh/ItChat
+
 https://github.com/calestini/sportmonks_api
